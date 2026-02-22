@@ -38,7 +38,7 @@ shared.Vin = {
     ['Silent Aim'] = {
         ['Enabled'] = true,
         ['Hit Part'] = 'Closest Part',
-        ['Use Prediction'] = true,
+        ['Use Prediction'] = false,
         ['Prediction'] = {
             ['X'] = 0.133,
             ['Y'] = 0.133,
@@ -47,7 +47,7 @@ shared.Vin = {
     },
 
     ['Camera Lock'] = {
-        ['Enabled'] = true,
+        ['Enabled'] = false,
         ['Hit Part'] = 'Closest Part',
         ['Smoothing'] = {
             ['X'] = 40,
