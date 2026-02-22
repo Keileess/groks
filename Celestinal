@@ -1,4 +1,4 @@
-local Config = shared.Glory -- table name
+local Config = shared.Vin -- table name
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
 local RunService = game:GetService("RunService")
